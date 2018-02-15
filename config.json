@@ -1,0 +1,7 @@
+{
+  "AWS_REGION": "us-east-1",
+  "ACCESS_KEY_ID": "23AKIAIPHUUK44DE346PRSFA11",
+  "SECRET_ACCESS_KEY_ID": "1224434eKEz6pOJATc76dgHcQL5jxq/Jaj6O0quiOpFO434",
+  "ACCOUNT_ID": "301223543953683345",
+  "INSTANCES": ["instanceName1", "instanceName2", "instanceName3", "instanceName4"]
+}
